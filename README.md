@@ -1,0 +1,1 @@
+# secbyk　Trying this freeware without knowing much what a midi sequencer is.  Had a limited experience on CakeWalk Pro Audio more than 20 years ago but need something that works on Win10 for writing with notations on staff view.  Tried CakeWalk by BandLab but finding a little too complicated for proper set-up. 
